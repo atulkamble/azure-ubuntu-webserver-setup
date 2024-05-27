@@ -1,5 +1,11 @@
 Detailed step-by-step guide to creating an Azure Linux VM with Ubuntu, installing a web server, and deploying a full website using Azure CLI and shell scripting.
 
+### Clone this Project
+```
+git clone
+cd AzureWebsiteProject
+```
+
 ### Prerequisites
 
 1. **Install Azure CLI**: If you haven't installed the Azure CLI, follow the instructions [here](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli).
