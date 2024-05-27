@@ -2,7 +2,7 @@ Detailed step-by-step guide to creating an Azure Linux VM with Ubuntu, installin
 
 ### Clone this Project
 ```
-git clone
+git clone https://github.com/atulkamble/AzureWebsiteProject.git
 cd AzureWebsiteProject
 ```
 
