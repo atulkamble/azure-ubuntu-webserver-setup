@@ -1,3 +1,10 @@
+# Deploy a Full Website on Azure Ubuntu VM 
+# Clone repo
+```
+git clone
+cd 
+```
+
 Detailed step-by-step guide to creating an Azure Linux VM with Ubuntu, installing a web server, and deploying a full website using Azure CLI and shell scripting.
 
 ### Clone this Project
